@@ -1,4 +1,3 @@
-<img align="center" alt="Banner" width="full" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif"/>
 <h1 align="center">Hi 👋, I'm Mardav Jadaun</h1>
 <h3 align="center">A patient Programmer and a frontend developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
