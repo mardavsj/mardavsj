@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mardav Jadaun</h1>
 <h3 align="center">A patient Programmer and a frontend developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/9e/46/859e4681f9891e4f3dfa1f4489fe3588.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mardavsj&label=Profile%20views&color=0e75b6&style=flat" alt="mardavsj" /> </p>
 
