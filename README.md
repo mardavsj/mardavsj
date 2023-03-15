@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mardav Jadaun</h1>
-<h3 align="center">A patient Programmer and a frontend developer.</h3>
+<h3 align="center">Connect with me, let's grow together !</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mardavsj&label=Profile%20views&color=0e75b6&style=flat" alt="mardavsj" /> </p>
 
