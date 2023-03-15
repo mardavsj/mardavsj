@@ -3,8 +3,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mardavsj&label=Profile%20views&color=0e75b6&style=flat" alt="mardavsj" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mardav_13" target="blank"><img src="https://img.shields.io/twitter/follow/mardav_13?logo=twitter&style=for-the-badge" alt="mardav_13" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript, Java**
 
 - 💬 Ask me about **react, next, tailwind, python**
