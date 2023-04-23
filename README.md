@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mardavsj&label=Profile%20views&color=0e75b6&style=flat" alt="mardavsj" /> </p>
 
-- 🌱 I’m currently learning **Typescript, Java**
+- 🌱 I’m currently learning **Nuxt, Java**
 
 - 💬 Ask me about **react, next, tailwind, python**
 
