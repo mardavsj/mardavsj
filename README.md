@@ -17,5 +17,5 @@
 <a href="https://www.leetcode.com/mardav13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mardav13" height="30" width="40" /></a>
 </p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mardavsj&show_icons=true&locale=en&layout=compact" alt="mardavsj" /></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mardavsj&show_icons=true&locale=en" alt="mardavsj" /></p>
+
 
